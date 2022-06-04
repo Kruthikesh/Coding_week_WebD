@@ -1,0 +1,177 @@
+
+
+
+.AM_tag
+{
+
+  color: black;
+  border: 5px solid blue;
+  border-radius: 5px;
+
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+}
+.AM_tag:hover{color:#004d1a;
+text-decoration:underline;text-emphasis: solid;}
+.p-3
+{
+  border: 5px black solid;
+}
+body
+{
+  background-color:#e6e6e6;
+}
+.fs-2
+{
+  margin-left: 10px;
+}
+.position-relative
+{
+  background-color:#ff1a1a;
+}
+.lookfor
+{
+
+  border: 2px solid;
+  border-radius: 10px;
+  width:50rem;
+  height:2.0rem;
+}
+.card-text
+{
+  line-height:1.2em;
+  font-family: 'Cairo', sans-serif;
+
+}
+.card-title
+{
+
+    card-title-spacer-y:0.3em;
+}
+.card
+{
+  border:  #0000b3 2px solid;
+}
+#one
+{
+  display: block;
+}
+#two
+{
+  display: block;
+}
+#three
+{
+  display: block;
+}
+#four
+{
+  display: block;
+}
+#five
+{
+  display: block;
+}
+#six
+{
+  display: block;
+}
+#seven
+{
+  display: block;
+}
+#eight
+{
+  display: block;
+}
+#nine
+{
+  display: block;
+}
+#ten
+{
+  display: block;
+}
+#eleven
+{
+  display: block;
+}
+#twelve
+{
+  display: block;
+}
+#thirteen
+{
+  display: block;
+}
+#fourteen
+{
+  display: block;
+}
+#fifteen
+{
+  display: block;
+}
+#sixteen
+{
+  display: block;
+}
+#seventeen
+{
+  display: block;
+}
+#eighteen
+{
+  display: block;
+}
+#nineteen
+{
+  display: block;
+}
+#twenty
+{
+  display: block;
+}
+#twentyone
+{
+  display: block;
+}
+#twentytwo
+{
+  display: block;
+}
+#twentythree
+{
+  display: block;
+}
+#twentyfour
+{
+  display: block;
+}
+#twentyfive
+{
+  display: block;
+}
+#twentysix
+{
+  display: block;
+}
+#twentyseven
+{
+  display: block;
+}
+#twentyeight
+{
+  display: block;
+}
+#twentynine
+{
+  display: block;
+}
+#thirty
+{
+  display: block;
+}
